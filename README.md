@@ -58,7 +58,7 @@ const numbers = [1,2,3];
 console.log(num1, num3);   //1  3
 ```
 
-
+```es6
 const number =1;
 const num2 = number;
 console.log(num2);   // 1
@@ -86,7 +86,7 @@ console.log(secondPerson);
 // [object Object] {
 //   name: "max"
 // }
-
+```
 
 
 
